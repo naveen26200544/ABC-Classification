@@ -69,7 +69,7 @@ The system analyzes inventory items based on 14 key parameters:
 ## 🚀 Getting Started
 
 ### Prerequisites
-bash
+'''bash
 Python 3.7+
 Flask
 scikit-learn
@@ -77,19 +77,19 @@ pandas
 numpy
 matplotlib
 seaborn
-
+'''
 
 ### Installation
-bash
+'''bash
 git clone https://github.com/naveen26200544/ABC-Classification.git
 cd smart-inventory-optimization
 pip install -r requirements.txt
-
+'''
 
 ### Usage
-bash
+'''bash
 python app.py
-
+'''
 
 ## 📊 Performance Results
 
