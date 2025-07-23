@@ -81,7 +81,7 @@ seaborn
 
 ### Installation
 bash
-git clone https://github.com/JRK-007/Smart-Inventory-Optimization-ML.git
+git clone https://github.com/naveen26200544/ABC-Classification.git
 cd smart-inventory-optimization
 pip install -r requirements.txt
 
